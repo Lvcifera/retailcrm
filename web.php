@@ -45,7 +45,7 @@ Route::get('/test', function () {
         'payments' => [
             array(
                 'type' => 'cash',
-                'comment' => 'ссылка на код'
+                'comment' => 'https://github.com/Lvcifera/retailcrm/blob/main/web.php'
             )
         ],
         'items' => [
