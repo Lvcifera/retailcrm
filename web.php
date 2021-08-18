@@ -34,9 +34,9 @@ Route::get('/test', function () {
         'orderType' => 'fizik',
         'orderMethod' => 'test',
         'number' => '10.07.1998',
-        'firstName' => 'Staroverov',
-        'lastName' => 'Andrey',
-        'patronymic' => 'Yurievich',
+        'firstName' => 'Вишневский',
+        'lastName' => 'Андрей',
+        'patronymic' => 'Юрьевич',
         'customFields' => [
             array(
                 'prim' => 'тестовое задание'
